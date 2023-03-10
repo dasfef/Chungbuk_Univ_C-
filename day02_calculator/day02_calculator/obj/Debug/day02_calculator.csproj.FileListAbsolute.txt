@@ -1,0 +1,11 @@
+C:\work\C#\day02_calculator\day02_calculator\bin\Debug\day02_calculator.exe.config
+C:\work\C#\day02_calculator\day02_calculator\bin\Debug\day02_calculator.exe
+C:\work\C#\day02_calculator\day02_calculator\bin\Debug\day02_calculator.pdb
+C:\work\C#\day02_calculator\day02_calculator\obj\Debug\day02_calculator.csproj.AssemblyReference.cache
+C:\work\C#\day02_calculator\day02_calculator\obj\Debug\day02_calculator.csproj.SuggestedBindingRedirects.cache
+C:\work\C#\day02_calculator\day02_calculator\obj\Debug\day02_calculator.Form1.resources
+C:\work\C#\day02_calculator\day02_calculator\obj\Debug\day02_calculator.Properties.Resources.resources
+C:\work\C#\day02_calculator\day02_calculator\obj\Debug\day02_calculator.csproj.GenerateResource.cache
+C:\work\C#\day02_calculator\day02_calculator\obj\Debug\day02_calculator.csproj.CoreCompileInputs.cache
+C:\work\C#\day02_calculator\day02_calculator\obj\Debug\day02_calculator.exe
+C:\work\C#\day02_calculator\day02_calculator\obj\Debug\day02_calculator.pdb
