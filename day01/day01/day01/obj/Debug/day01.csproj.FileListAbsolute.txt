@@ -1,0 +1,11 @@
+C:\work\C#\day01\day01\day01\bin\Debug\day01.exe.config
+C:\work\C#\day01\day01\day01\bin\Debug\day01.exe
+C:\work\C#\day01\day01\day01\bin\Debug\day01.pdb
+C:\work\C#\day01\day01\day01\obj\Debug\day01.csproj.AssemblyReference.cache
+C:\work\C#\day01\day01\day01\obj\Debug\day01.csproj.SuggestedBindingRedirects.cache
+C:\work\C#\day01\day01\day01\obj\Debug\day01.Properties.Resources.resources
+C:\work\C#\day01\day01\day01\obj\Debug\day01.csproj.GenerateResource.cache
+C:\work\C#\day01\day01\day01\obj\Debug\day01.csproj.CoreCompileInputs.cache
+C:\work\C#\day01\day01\day01\obj\Debug\day01.exe
+C:\work\C#\day01\day01\day01\obj\Debug\day01.pdb
+C:\work\C#\day01\day01\day01\obj\Debug\day01.Form1.resources

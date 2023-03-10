@@ -1,0 +1,12 @@
+C:\work\C#\day01\MyNotePad\bin\Release\MyNotePad.exe.config
+C:\work\C#\day01\MyNotePad\bin\Release\MyNotePad.exe
+C:\work\C#\day01\MyNotePad\bin\Release\MyNotePad.pdb
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.csproj.AssemblyReference.cache
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.csproj.SuggestedBindingRedirects.cache
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.Form1.resources
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.Form2.resources
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.Properties.Resources.resources
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.csproj.GenerateResource.cache
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.csproj.CoreCompileInputs.cache
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.exe
+C:\work\C#\day01\MyNotePad\obj\Release\MyNotePad.pdb
