@@ -6,7 +6,7 @@
 ---
 
 - Created MyNotePad
-- Created Setup file
+- Created Setup file & deploy
 
 <br>
 
@@ -17,5 +17,6 @@
 - Created analog clock
 - Created digital clock
 - Created calculator
+- Created Sysinfo file
 
 <br>
