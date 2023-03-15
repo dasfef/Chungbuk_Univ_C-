@@ -1,0 +1,6 @@
+C:\work\C#\day03_paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\work\C#\day03_paint\paint\obj\Debug\paint.csproj.SuggestedBindingRedirects.cache
+C:\work\C#\day03_paint\paint\obj\Debug\paint.Form1.resources
+C:\work\C#\day03_paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\work\C#\day03_paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\work\C#\day03_paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
