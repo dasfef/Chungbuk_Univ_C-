@@ -1,0 +1,18 @@
+ppt 사용 불가 이슈로 인한 메모장으로 정리
+
+[ 원래 하려던 것 ]
+: 유튜브 api 키 발급 
+▶ 검색시 유튜브 검색 결과 listview에 출력
+▶ listview.items 더블클릭시 유튜브 링크 추출 및 영상 다운로드
+▶ 다운로드 된 경로의 listview.items 이름으로 된 파일을 우측 media player에서 재생
+
+[ 오류 ]
+: videolibrary 라는 패키지를 활용하여 쉽게 다운로드 하려 했으나
+다운로드 시 버퍼가 심하게 걸리고 파일 사이즈 조정에 어려움을 겪어
+상당한 시간이 걸림
+
+[ 진행 ]
+: listview.items 더블 클릭하면 default 웹 브라우저에서 
+해당 링크의 영상 재생
+
+textbox에 글자 입력 후 ENTER KEY 가능
