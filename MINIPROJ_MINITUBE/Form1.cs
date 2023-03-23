@@ -50,7 +50,7 @@ namespace MINITUBE
             listView1.Items.Clear();
             var youtube = new YouTubeService(new BaseClientService.Initializer()
             {
-                ApiKey = "AIzaSyDzBgk2gxfcAiOU2whxxOa62fPImBEDVVA",
+                ApiKey = "발급받은 API 키 입력",
                 ApplicationName = "MiniTube"
             });
 
