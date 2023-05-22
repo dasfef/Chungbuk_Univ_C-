@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\bin\Debug\MINI_DustSensor.exe.config
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\bin\Debug\MINI_DustSensor.exe
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\bin\Debug\MINI_DustSensor.pdb
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\obj\Debug\MINI_DustSensor.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\obj\Debug\MINI_DustSensor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\obj\Debug\MINI_DustSensor.Form1.resources
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\obj\Debug\MINI_DustSensor.Properties.Resources.resources
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\obj\Debug\MINI_DustSensor.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\obj\Debug\MINI_DustSensor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\obj\Debug\MINI_DustSensor.exe
+C:\Users\User\Desktop\WORK\Chungbuk_Univ_Csharp\MINI_DustSensor\obj\Debug\MINI_DustSensor.pdb
