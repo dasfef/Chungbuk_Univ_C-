@@ -16,8 +16,6 @@ namespace MINI_DustSensor
         SerialPort Comport = new SerialPort();
         private delegate void SetTextDelegate(string getString);
 
-
-
         // Dust Data
         String Dust = "";
         double dustInt = 0;
@@ -69,24 +67,24 @@ namespace MINI_DustSensor
         {
             if (Comport.IsOpen)
             {
-                string msg = "@" + motion + "," + speed.ToString() + "\n";
+                string msg = "#" + motion + "," + speed.ToString() + "\n";
                 Comport.Write(msg);
             }
         }
 
         private void dustStatus(double dustint)
         {
-            if (dustint <= 50)
+            if (dustint <= 30)
             {
                 lblDust.BackColor=Color.LimeGreen;
             }
-            else if((dustint > 50) && (dustint < 300))
+            else if((dustint > 30) && (dustint <= 150))
             { 
                 lblDust.BackColor=Color.Orange; 
             }
             else { lblDust.BackColor=Color.Red; }
 
-            lblDust.Text = dustint.ToString();
+            lblDust.Text =String.Format("{0:##.#0}", dustint);
         }
 
         private void motorStatus(string motion, int speed)
@@ -171,5 +169,7 @@ namespace MINI_DustSensor
             SetSpeed = trackBar1.Value;
             SerialWrite(SetMotion, SetSpeed);
         }
+
+       
     }
 }
